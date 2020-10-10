@@ -1,0 +1,10 @@
+@layout('layout.app')
+@section('content')
+  <main>
+  	<form action="/" method="post">
+      {{ csrfField() }}
+  		<input type="text" name="url" placeholder="Type the url"/>
+			<input type="submit" value="Shorten"/>
+  	</form>
+  </main>
+@endsection
