@@ -12,5 +12,5 @@ $ yarn install
 ```
 >or
 ```
-> yarn install
+> npm install
 ```
