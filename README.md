@@ -11,12 +11,16 @@ Basic URL shortener made in NodeJS AdonisJS and PostgreSQL
 # AdonisJS version 4.1
 $ npm i -g @adonisjs/cli
 ```
+>or
+```
+$ yarn add global @adonisjs/cli
+```
 
->UNIX LIKE
+> Install package dependences
 ```
 $ yarn install
 ```
 >or
 ```
-> npm install
+$ npm install
 ```
