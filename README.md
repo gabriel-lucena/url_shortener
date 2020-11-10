@@ -15,8 +15,7 @@ $ npm -v
 
 > For the installation of the premises
 
-> AdonisJS install CLI
-# AdonisJS version 4.1
+# AdonisJS version 4.1, install CLI:
 ```
 $ npm i -g @adonisjs/cli
 ```
