@@ -8,6 +8,7 @@ Basic URL shortener made in NodeJS AdonisJS and PostgreSQL
 
 > AdonisJS install CLI
 ```
+# AdonisJS version 4.1
 $ npm i -g @adonisjs/cli
 ```
 
