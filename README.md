@@ -6,6 +6,11 @@ Basic URL shortener made in NodeJS AdonisJS and PostgreSQL
 
 > For the installation of the premises
 
+> AdonisJS install CLI
+```
+$ npm i -g @adonisjs/cli
+```
+
 >UNIX LIKE
 ```
 $ yarn install
