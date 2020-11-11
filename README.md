@@ -18,17 +18,17 @@ $ npm -v
 # AdonisJS version 4.1, install CLI:
 ```
 $ npm i -g @adonisjs/cli
-```
-> Or
-```
+
+or
+
 $ yarn add global @adonisjs/cli
 ```
 
 > Install package dependences
 ```
 $ yarn install
-```
-> Or
-```
+
+or
+
 $ npm install
 ```
