@@ -1,11 +1,11 @@
 {
   "name": "url-shortener-app",
-  "version": "0.0.1",
+  "version": "0.3.1",
   "adonis-version": "4.1.0",
   "description": "The URL shortener application boilerplate for Adonisjs",
   "main": "index.js",
   "scripts": {
-    "start": "node server.js",
+    "start": "adonis serve --dev",
     "test": "node ace test"
   },
   "keywords": [
