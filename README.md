@@ -31,7 +31,6 @@ $ yarn install
 or
 
 $ npm install
-<<<<<<< HEAD
 ```
 
 # Run project
@@ -42,6 +41,4 @@ yarn start
 or
 
 npm start
-=======
->>>>>>> 0caec9a0d94a4c6a74f014348309b31d2284752a
 ```
