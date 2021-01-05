@@ -5,7 +5,7 @@
   "description": "The URL shortener application boilerplate for Adonisjs",
   "main": "index.js",
   "scripts": {
-    "start": "adonis serve --dev",
+    "start": "ENV_SILENT=true node server.js",
     "test": "node ace test"
   },
   "keywords": [
